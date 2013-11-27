@@ -7,6 +7,18 @@ int main() {
 		std::cout << "Введите вашу строчку:";
 		std::cin >> stroke;
 		std::cout << stroke << "\n";
+		//char stat[] = stat[] + stroke;
+		//char *h;
+		//h = &stroke;
+		//char common;
+		//for (stats in stat) {
+		//	if h > (h + 1) {
+		//		common = h;
+		//		h = (h + 1);
+		//		(h + 1) = h;
+		//	} 
+
+		}
 	}
 
 }
